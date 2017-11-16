@@ -40,7 +40,7 @@ reverse-engineering the binary, and putting it into `password.txt` in order to
 gain access to viewing your "grade". You primary tools will be `gdb`, your
 knowledge of stack layout, and a few hints we give along the way.
 
-You can run the program in `gdb` (using `gdb pa4-gradebook`), and trace through
+You can run the program in `gdb` (using `gdb ~/../public/pa4-gradebook`), and trace through
 the program, setting breakpoints and inspecting memory as necessary.
 
 A reminder of some useful GDB commands:
