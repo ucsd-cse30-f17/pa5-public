@@ -1,4 +1,4 @@
-# PA5: "Hacking" PA4 Gradebook
+# PA5: "Hacking" the PA4 Gradebook
 
 In this assignment, you will type in a password in a text (.txt) file,
 and run it through a provided executable:
