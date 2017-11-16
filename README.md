@@ -67,7 +67,7 @@ The UNIX command `strings` looks for string constants and labels within a
 binary. You can run it with
 
 ```
-$ strings pa4-gradebook
+$ strings ~/../public/pa4-gradebook
 ```
 
 Try running this and look at the output -- does it suggest to you any labels
