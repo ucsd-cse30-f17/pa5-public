@@ -110,11 +110,11 @@ _change_ your grade.
 
 Consider this program:
 
-<img src="https://github.com/ucsd-cse30-f17/pa5-support-2/blob/master/stack_example_1.png" width="500">
+<img src="https://github.com/ucsd-cse30-f17/pa5-public/blob/master/stack_example_1.png" width="500">
 
 Recall how its data is laid in the stack when the program is run:
 
-<img src="https://github.com/ucsd-cse30-f17/pa5-support-2/blob/master/stack_example_2.png" width="500">
+<img src="https://github.com/ucsd-cse30-f17/pa5-public/blob/master/stack_example_2.png" width="500">
 
 Notice how the stack grows upward in memory, from high memory addresses
 to low memory addresses. The locally declared variables are laid out at
@@ -202,7 +202,7 @@ losing or modifying information on behalf of other people.
 
 1. Write into your README file the following sentence:
 
-<img src="https://github.com/ucsd-cse30-f17/pa5-support-2/blob/master/readme_statement.png">
+<img src="https://github.com/ucsd-cse30-f17/pa5-public/blob/master/readme_statement.png">
 
 This language is borrowed from the computer security course here.
 
