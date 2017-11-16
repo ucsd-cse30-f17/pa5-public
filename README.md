@@ -9,6 +9,10 @@ and run it through a provided executable:
 Of course, the binary we provide and the grades are fake (everyone has an
 80% to start), and nothing really changes about your grade.
 
+## Getting Started 
+
+Click [this link](https://classroom.github.com/a/UXMPAU_Y) to get the github classroom starter code. 
+
 ## 1. Background
 
 Imagine that you're a less ethical student than I'm sure you actually are. You
