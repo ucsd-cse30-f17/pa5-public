@@ -131,12 +131,12 @@ something regarding usernames and keys.
 
 You vaguely recall some code that provided a struct definition:
 
-<img src="https://github.com/ucsd-cse30-f17/pa5-support-2/blob/master/Struct.png" width="400">
+<img src="https://github.com/ucsd-cse30-f17/pa5-public/blob/master/Struct.png" width="400">
 
 and some code relating to the layout of some local variables, somewhere inside
 a `main`-looking function
 
-<img src="https://github.com/ucsd-cse30-f17/pa5-support-2/blob/master/local_vars.png" width="900">
+<img src="https://github.com/ucsd-cse30-f17/pa5-public/blob/master/local_vars.png" width="900">
 
 You're pretty sure that you saw the `permissions` field used in a conditional
 somewhere; something about checking permissions. If only you could get that to
